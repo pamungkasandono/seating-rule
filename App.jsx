@@ -123,7 +123,7 @@ export default function App() {
                 <div className="text-center mb-6">
                     <div className="text-lg text-gray-600 mb-2">📅 {dateSeed.display}</div>
                     <div className="inline-flex items-center gap-2 text-2xl font-bold">
-                        🖥️ <span>LAYAR</span>
+                        📝 <span>PAPAN TULIS</span>
                     </div>
                 </div>
 
